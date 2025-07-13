@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Nur Avika!
 
-📚 I'm currently learning, learning, learning — and still learning.
-🚀 New things? I think they're exciting.
+📚 I'm currently learning, learning, learning — and still learning.<h>
+<h>🚀 New things? I think they're exciting.<h><h>
 
 ---
 
