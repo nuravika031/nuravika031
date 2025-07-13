@@ -2,10 +2,15 @@
 
 # 👋 Hi, I'm Nur Avika!
 
-📚 I'm currently learning, learning, learning — and still learning.<h>
-<h>🚀 New things? I think they're exciting.<h><h>
+📚 I'm currently learning, learning, learning -- and still learning.<br>
+🚀 New things? I think they're exciting.<br>
 
 ---
+<br><b>Contributions in the last year<b>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,9 +40,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=nuravika031&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=nuravika031&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ffffff)<br><br>
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuravika031&theme=rose_pine)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-5-ff69b4?style=flat-square&logo=github)
 
 ---
 
